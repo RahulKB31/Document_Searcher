@@ -1,0 +1,5 @@
+﻿"id","name","modified","deleted","correlation_id","plant","progress_gates"
+"1","GeminiSEM & Crossbeam",\N,\N,"42fcd2d7-5aa1-49f6-b3dd-2d7e45b1529a","2","[{""value"": 0, ""operation"": 5100}, {""value"": 25, ""operation"": 5180}, {""value"": 50, ""operation"": 5220}, {""value"": 75, ""operation"": 5210}, {""value"": 90, ""operation"": 5260}]"
+"2","Crossbeam Integration","2021-02-25 14:15:09+00",\N,"5d0655e0-1168-4177-be95-9f4ad50f0ed5","1","[]"
+"3","Sigma","2021-02-25 14:15:09+00",\N,"b3295958-7dd4-4bc1-8353-e96b3ebeef85","2","[{""value"": 0, ""operation"": 5100}, {""value"": 25, ""operation"": 5150}, {""value"": 50, ""operation"": 5190}, {""value"": 75, ""operation"": 5360}, {""value"": 90, ""operation"": 5360}]"
+"7","EVO","2021-02-25 14:15:09+00",\N,"cddf4e04-834b-411d-8911-a64b2e28dbcc","2","[{""value"": 0, ""operation"": 5100}, {""value"": 25, ""operation"": 5120}, {""value"": 50, ""operation"": 5130}, {""value"": 75, ""operation"": 5170}, {""value"": 90, ""operation"": 5190}]"
